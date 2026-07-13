@@ -1,0 +1,2 @@
+Hey Everyone welcome to my GIT Training
+including AWS & devops
